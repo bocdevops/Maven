@@ -2,7 +2,7 @@
 Maven is a code build tool which used to convert your code to artifact.
 
 #### Install Maven on Jenkins
-Download maven packages https://maven.apache.org/download.cgi onto Jenkins server. In this case I am using /opt/maven as my installation directory
+Download maven packages https://maven.apache.org/download.cgi In this case I am using /opt/maven as my installation directory
 	- Link : https://maven.apache.org/download.cgi
 ```sh
   # Creating maven directory under /opt
