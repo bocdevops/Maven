@@ -20,8 +20,10 @@ Setup M2_HOME and M2 paths in .bash_profile of user and add these to path variab
   M2=$M2_HOME/bin
   PAHT=<Existing_PATH>:$M2_HOME:$M2
 ```
-#### Check point 
+Once installtion done run below commands
+```sh
 logoff and login to check maven version
+```
 or
 ```sh
 source ~/.bash_profile
